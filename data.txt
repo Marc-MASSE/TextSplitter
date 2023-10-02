@@ -1,0 +1,2 @@
+CRUD est un acronyme étrange datant d'une époque lointaine de la programmation.
+Il s'agit des quatre opérations (en anglais) que nous avons tendance à effectuer sur les données.

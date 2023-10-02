@@ -18,5 +18,6 @@ class Controller:
         Split text into words using space as separator.
         :return: A list of words
         """
-        return self.remove_punctuation(texte_sans_ponctuation.split())
+        text_without_punctuation = self.remove_punctuation()
+        return text_without_punctuation.split()
 
